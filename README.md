@@ -5,7 +5,7 @@
     </summary>
   </ul>
 
-Developing the *Malignant Engine* & other projects.
+Developing Game Engines and stuff.
 
 [![Linktree](https://img.shields.io/badge/LinkTree-1de9b6?logo=linktree&logoColor=white)](https://linktr.ee/strealz)
 [![Discord](https://img.shields.io/badge/@strealz-%235865F2.svg?&logo=discord&logoColor=white)](#)
