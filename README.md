@@ -1,15 +1,15 @@
 <div id="user-content-toc" align="center">
   <ul style="list-style: none;">
     <summary>
-      <h1>STREALZ</h1>
+      <i><h1>- strealz -</h1></i>
     </summary>
   </ul>
 
 Developing Game Engines and stuff.
 
-[![Linktree](https://img.shields.io/badge/LinkTree-1de9b6?logo=linktree&logoColor=white)](https://linktr.ee/strealz)
-[![Discord](https://img.shields.io/badge/@strealz-%235865F2.svg?&logo=discord&logoColor=white)](#)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@lyn_opal)
+[![Linktree](https://img.shields.io/badge/LinkTree-151515?logo=linktree&logoColor=white)](https://linktr.ee/strealz)
+[![Discord](https://img.shields.io/badge/@strealz-151515.svg?&logo=discord&logoColor=white)](#)
+[![YouTube](https://img.shields.io/badge/dev_&_art-151515.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@lyn_opal)
 
 </div>
 
@@ -17,9 +17,9 @@ Developing Game Engines and stuff.
 
 <div id="user-content-toc" align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=strealz&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=strealz&layout=compact&theme=dark)
 
-![strealz's GitHub stats](https://github-readme-stats.vercel.app/api?username=strealz&show_icons=true&theme=radical)
+![strealz's GitHub stats](https://github-readme-stats.vercel.app/api?username=strealz&show_icons=true&theme=dark)
 
 </div>
 
