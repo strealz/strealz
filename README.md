@@ -5,7 +5,7 @@
     </summary>
   </ul>
 
-Developing Game Engines and stuff.
+Game Software and Tooling Developer.
 
 [![Linktree](https://img.shields.io/badge/LinkTree-151515?logo=linktree&logoColor=white)](https://linktr.ee/strealz)
 [![Discord](https://img.shields.io/badge/@strealz-151515.svg?&logo=discord&logoColor=white)](#)
