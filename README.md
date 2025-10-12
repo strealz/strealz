@@ -13,6 +13,7 @@ Developing Game Engines and stuff.
 
 </div>
 
+<!--
 ---
 
 <div id="user-content-toc" align="center">
@@ -24,7 +25,6 @@ Developing Game Engines and stuff.
 </div>
 
 
-<!--
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
