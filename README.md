@@ -5,7 +5,7 @@
     </summary>
   </ul>
 
-Game Software and Tooling Developer.
+Games Software and Tooling Developer
 
 [![Linktree](https://img.shields.io/badge/LinkTree-151515?logo=linktree&logoColor=white)](https://linktr.ee/strealz)
 [![Discord](https://img.shields.io/badge/@strealz-151515.svg?&logo=discord&logoColor=white)](#)
