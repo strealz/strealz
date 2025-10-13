@@ -13,16 +13,18 @@ Games Software and Tooling Developer
 
 </div>
 
-<!--
 ---
 
 <div id="user-content-toc" align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=strealz&layout=compact&theme=dark)
-
-![strealz's GitHub stats](https://github-readme-stats.vercel.app/api?username=strealz&show_icons=true&theme=dark)
+ <img src="https://github.com/strealz/strealz/blob/main/mal_light.png" alt="logo" style="width:244px;height:244px;"> 
 
 </div>
+
+<!--
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=strealz&layout=compact&theme=dark)
+![strealz's GitHub stats](https://github-readme-stats.vercel.app/api?username=strealz&show_icons=true&theme=dark)
 
 
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-121013?logo=github&logoColor=white)](#)
