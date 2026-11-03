@@ -1,7 +1,7 @@
 <div id="user-content-toc" align="center">
   <ul style="list-style: none;">
     <summary>
-      <i><h1>- strealz -</h1></i>
+      <h1>strealz</h1>
     </summary>
   </ul>
 
@@ -10,14 +10,6 @@ Games Software and Tooling Developer
 [![Linktree](https://img.shields.io/badge/LinkTree-151515?logo=linktree&logoColor=white)](https://linktr.ee/strealz)
 [![Discord](https://img.shields.io/badge/@strealz-151515.svg?&logo=discord&logoColor=white)](#)
 [![YouTube](https://img.shields.io/badge/dev_&_art-151515.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@lyn_opal)
-
-</div>
-
----
-
-<div id="user-content-toc" align="center">
-
- <img src="https://github.com/strealz/strealz/blob/main/mal_light.png" alt="logo" style="width:244px;height:244px;"> 
 
 </div>
 
