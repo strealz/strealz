@@ -7,9 +7,8 @@
 
 Games Software and Tooling Developer
 
-[![Linktree](https://img.shields.io/badge/LinkTree-151515?logo=linktree&logoColor=white)](https://linktr.ee/strealz)
-[![Discord](https://img.shields.io/badge/@strealz-151515.svg?&logo=discord&logoColor=white)](#)
-[![YouTube](https://img.shields.io/badge/dev_&_art-151515.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@lyn_opal)
+[![Linktree](https://img.shields.io/badge/[li]-151515?logo=linktree&logoColor=white)](https://linktr.ee/strealz)
+[![YouTube](https://img.shields.io/badge/[ly]-151515.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@lyn_opal)
 
 </div>
 
